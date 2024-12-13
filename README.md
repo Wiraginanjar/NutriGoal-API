@@ -10,11 +10,13 @@
 </p>
 
 
-<p align="center">Simple description of what your project do or how to use it</p>
+<p align="center">NutriGoal is a health and wellness application designed to address the growing obesity rates in Indonesia, where **6.53% of men** and **29.7% of women** are classified as obese as of 2024. By leveraging machine learning, NutriGoal aims to provide accessible nutritional guidance to users, especially those in communities with limited access to dietary support.
+
+The app uses **Body Mass Index (BMI)** to assess weight status and offers personalized diet plans to promote healthier lifestyles and reduce obesity-related health risks such as heart disease and diabetes.</p>
 
 
 <p align="center">
-<a href="https://github.com/ShaanCoding">📱 Visit this Project</a>
+<a href="https://github.com/orgs/Nutrigoal/repositories">📱 Visit this Project</a>
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
